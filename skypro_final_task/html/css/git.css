@@ -1,0 +1,18 @@
+body {
+    font-size: 24px;
+}
+.red {
+    color:red;
+}
+.blue {
+    color: blue;
+}
+li.red {
+    color: red;
+}
+p.bold {
+    font-weight: bold;
+}
+li.bold {
+    font-weight: bold;
+}

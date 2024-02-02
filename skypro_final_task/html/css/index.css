@@ -1,0 +1,21 @@
+.logo {
+	 float: left;
+}
+ nav {
+	 float: right;
+}
+ nav ul {
+	 margin: 0;
+	 padding: 0;
+	 list-style: none;
+}
+ nav li {
+	 display: inline-block;
+}
+ body {
+	 background: #000000;
+	 color: #fff;
+}
+ a {
+	 color: #28281e
+}
